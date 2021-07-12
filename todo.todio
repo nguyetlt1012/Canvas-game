@@ -1,0 +1,15 @@
+properties: thuoc tinh 
+basic game checklist: 
+1. create a player 
+2. shoot projectiles 
+3. create enemies
+4. detect collision on enemy / projectile hit
+5. detect collision on enemy / player hit 
+6. remove off screen projectiles 
+7. colorize game
+8. shrink enemies on hit 
+9. create particle explosion on hit 
+10. add score 
+11. add game over UI
+12. add restart button 
+13. add start game button 
